@@ -9,6 +9,5 @@ namespace DDDProject.Data.Context.Interfaces
         DbEntityEntry<TEntity> Entry<TEntity>(TEntity entity) where TEntity : class;
         int SaveChanges();
         void Dispose();
-        int? CurrentUserId { get; }
     }
 }

@@ -6,7 +6,7 @@ using DDDProject.Domain.Entities;
 
 namespace DDDProject.Data.Context
 {
-    public class northwindContext : DbContext
+    public class northwindContext : BaseDbContext
     {
         static northwindContext()
         {
