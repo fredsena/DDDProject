@@ -1,0 +1,14 @@
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\obj\Debug\DDDProject.UnitTest.csprojResolveAssemblyReference.cache
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\xunit.execution.desktop.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\DDDProject.UnitTest.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\DDDProject.UnitTest.pdb
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\xunit.abstractions.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\xunit.assert.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\xunit.core.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\xunit.abstractions.xml
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\xunit.assert.pdb
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\xunit.assert.xml
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\xunit.core.pdb
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\bin\Debug\xunit.core.xml
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\obj\Debug\DDDProject.UnitTest.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.UnitTest\obj\Debug\DDDProject.UnitTest.pdb

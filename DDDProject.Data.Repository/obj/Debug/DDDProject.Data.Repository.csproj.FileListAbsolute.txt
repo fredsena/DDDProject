@@ -1,0 +1,17 @@
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\obj\Debug\DDDProject.Data.Repository.csprojResolveAssemblyReference.cache
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\DDDProject.Data.Repository.dll.config
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\DDDProject.Data.Repository.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\DDDProject.Data.Repository.pdb
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\DDDProject.Data.Context.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\DDDProject.Domain.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\EntityFramework.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\DDDProject.Infra.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\DDDProject.Data.Context.pdb
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\DDDProject.Domain.pdb
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\EntityFramework.xml
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\bin\Debug\DDDProject.Infra.pdb
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\obj\Debug\DDDProject.Data.Repository.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Repository\obj\Debug\DDDProject.Data.Repository.pdb

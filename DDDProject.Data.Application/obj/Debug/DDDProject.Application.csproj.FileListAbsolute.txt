@@ -1,0 +1,5 @@
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Application\bin\Debug\DDDProject.Data.Application.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Application\bin\Debug\DDDProject.Data.Application.pdb
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Application\obj\Debug\DDDProject.Application.csprojResolveAssemblyReference.cache
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Application\obj\Debug\DDDProject.Data.Application.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Application\obj\Debug\DDDProject.Data.Application.pdb

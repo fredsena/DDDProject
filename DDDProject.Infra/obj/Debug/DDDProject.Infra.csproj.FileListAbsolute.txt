@@ -1,0 +1,4 @@
+D:\FRED\GITHUB\DDDProject\DDDProject.Infra\bin\Debug\DDDProject.Infra.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Infra\bin\Debug\DDDProject.Infra.pdb
+D:\FRED\GITHUB\DDDProject\DDDProject.Infra\obj\Debug\DDDProject.Infra.dll
+D:\FRED\GITHUB\DDDProject\DDDProject.Infra\obj\Debug\DDDProject.Infra.pdb
