@@ -26,3 +26,4 @@ D:\FRED\GITHUB\DDDProject\DDDProject.Data.Context\bin\Debug\DDDProject.Infra.pdb
 D:\FRED\GITHUB\DDDProject\DDDProject.Data.Context\obj\Debug\DDDProject.Data.Context.csprojResolveAssemblyReference.cache
 D:\FRED\GITHUB\DDDProject\DDDProject.Data.Context\obj\Debug\DDDProject.Data.Context.dll
 D:\FRED\GITHUB\DDDProject\DDDProject.Data.Context\obj\Debug\DDDProject.Data.Context.pdb
+D:\FRED\GITHUB\DDDProject\DDDProject.Data.Context\bin\Debug\Microsoft.Practices.ServiceLocation.dll
